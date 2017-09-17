@@ -1,0 +1,7 @@
+--- a/Data/DList.hs	2017-09-16 21:41:42.757516023 -0700
++++ b/Data/DList.hs	2017-09-16 21:42:35.977141233 -0700
+@@ -1,4 +1,3 @@
+-{-# OPTIONS_GHC -O2 #-}
+ {-# OPTIONS_HADDOCK prune #-}
+ {-# LANGUAGE CPP #-}
+ {-# LANGUAGE TypeFamilies #-} -- For the IsList and IsString instances
